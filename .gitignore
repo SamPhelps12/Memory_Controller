@@ -1,0 +1,26 @@
+# Vivado project-generated clutter (large, regenerable -- never commit)
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/sources_1/bd/
+.Xil/
+vivado*.jou
+vivado*.log
+vivado*.str
+webtalk*.log
+webtalk*.jou
+*.xpr
+*.bit
+*.ltx
+
+# Icarus Verilog / simulation artifacts
+*.vcd
+*.out
+*.vvp
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
